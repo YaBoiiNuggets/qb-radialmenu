@@ -1,6 +1,6 @@
 # bl-radialmenu
 Radial Menu For QBCORE Framework scripted by Nuggets
-
+!! HOW TO INSTALL !!
 Simply just drag into your [qb] directory
 
 ![image](https://user-images.githubusercontent.com/53708840/223492391-4e62949b-b712-415f-9393-1ed82e13bf61.png)
