@@ -1,3 +1,5 @@
+print("^2bl^7-^2radialmenu v^42^7.^48^7.^45 ^7- ^2radialmenu by ^1Nuggets^7")
+
 Config = {}
 
 
