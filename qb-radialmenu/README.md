@@ -1,42 +1,28 @@
-# qb-radialmenu
-Simple edits of qb-radialmenu to look like nopixels radialmenu. Most of it is just edits but there is some addons to the radialmenu to. Enjoy!
+## bl-radialmenu ##
+### HOW TO REACH ME ##
+https://discord.gg/apphjjHDTY
 
-# Dependencies
-qb-core: https://github.com/qbcore-framework/qb-core
+## Dependencies ##
+car hud 
+vehcontrol - https://github.com/Manvaril/vehcontrol
 
-veh-control: https://github.com/Manvaril/vehcontrol
+Panic Button
+Alert ps-dispatch - https://github.com/Project-Sloth/ps-dispatch
 
-# Preview
-https://streamable.com/3xbdxt
+## DESCRIPTION ##
+Radial Menu For QBCORE Framework scripted by Nuggets
 
-![image](https://user-images.githubusercontent.com/108560629/179027979-53b7a925-159e-4dc7-a3f1-49cd05fed857.png)
+## HOW TO INSTALL ##
+Simply just drag into your [qb] directory
 
+![image](https://user-images.githubusercontent.com/53708840/223492391-4e62949b-b712-415f-9393-1ed82e13bf61.png)
 
-# Credits
+![image](https://user-images.githubusercontent.com/53708840/223492469-79fe8d19-edf4-49ba-98be-a06557748e14.png)
 
-https://github.com/KevinGirardx/qb-radialmenu
+Panic Button set up for ps-dispatch
 
-https://github.com/TonyCapon3/qb-radialmenu
+![image](https://user-images.githubusercontent.com/53708840/223492536-d2fe0e9b-d962-4a72-a161-cca10eab6300.png)
 
-# To-Do
--- Edit walking styles icons to match Nopixels | Working On
+Radio Channels through radio menu for Police to quick change
 
--- Add Expressions similar to nopixels
-
-# License
-
-    QBCore Framework
-    Copyright (C) 2021 Joshua Eger
-
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <https://www.gnu.org/licenses/>
+![image](https://user-images.githubusercontent.com/53708840/223492726-3f06fcda-71e4-4cf6-938e-72e751f73d5a.png)
