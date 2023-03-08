@@ -1,11 +1,11 @@
-# bl-radialmenu
+## bl-radialmenu ##
 ### HOW TO REACH ME ##
 https://discord.gg/apphjjHDTY
 
 ## Dependencies ##
-vehcontrol
+vehcontrol - https://github.com/Manvaril/vehcontrol
 
-
+## DESCRIPTION ##
 Radial Menu For QBCORE Framework scripted by Nuggets
 
 ## HOW TO INSTALL ##
