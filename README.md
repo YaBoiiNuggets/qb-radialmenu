@@ -1,6 +1,6 @@
 ## bl-radialmenu ##
 ### HOW TO REACH ME ##
-https://discord.gg/apphjjHDTY
+* [Discord](https://discord.gg/jM2e9QyXrq)
 
 ## Dependencies ##
 * [vehcontrol](https://github.com/Manvaril/vehcontrol)
