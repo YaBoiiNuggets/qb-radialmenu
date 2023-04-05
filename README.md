@@ -4,8 +4,6 @@ https://discord.gg/apphjjHDTY
 
 ## Dependencies ##
 * [vehcontrol](https://github.com/Manvaril/vehcontrol)
-
-Panic Button
 * [ps-dispatch](https://github.com/Project-Sloth/ps-dispatch)
 
 ## DESCRIPTION ##
