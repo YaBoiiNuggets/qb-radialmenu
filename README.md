@@ -6,7 +6,7 @@ https://discord.gg/apphjjHDTY
 * [vehcontrol](https://github.com/Manvaril/vehcontrol)
 
 Panic Button
-Alert ps-dispatch - https://github.com/Project-Sloth/ps-dispatch
+* [ps-dispatch](https://github.com/Project-Sloth/ps-dispatch)
 
 ## DESCRIPTION ##
 Radial Menu For QBCORE Framework scripted by Nuggets
