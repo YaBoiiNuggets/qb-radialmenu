@@ -1,2 +1,1 @@
 ## Download Latest Release!
-[https://media.discordapp.net/attachments/1107311053752258703/1209713026736066641/image0.jpg?ex=65e7ec0c&is=65d5770c&hm=aeaec8481e9060e3a9312e92fdcc8a478577d810bb280caaed5b61b4b28c4dd7&(Image)]
